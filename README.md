@@ -6,7 +6,7 @@ WEB-Dev student.Graphic designer.
 
 Estudiante de segundo año de desarrollo de aplicaciones WEB 🌐</br>Apasionado de la tecnología 👨‍💻 i la música 🎧
 
-* 🌍  Me ubico en Terrassa/Barcelona
+* 🌍  Me ubico en Barcelona
 * 🖥️  Visita mi portafolio en [Drive](https://drive.google.com/file/d/1JZ0rbqmNnc7w-Mkg9q_UXtGm6M7vSaFx/view?usp=sharing)
 * ✉️  Me puedes contactar en [victorguillofficial@gmail.com](mailto:victorguillofficial@gmail.com)
 * 🧠  Estoy aprendiendo Laravel + Eloquent, Vue and JavaScript.
